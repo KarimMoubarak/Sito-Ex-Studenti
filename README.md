@@ -71,6 +71,28 @@ Questo lavoro è stato sviluppato come estensione delle richieste iniziali, con 
 - migliorare l’esperienza utente
 - introdurre funzionalità aggiuntive non previste dalla traccia
 
+Inoltre, è stato introdotto un **sistema dinamico di temi stagionali**, che adatta automaticamente l’aspetto del sito in base al periodo dell’anno e all’ora del giorno.
+
+### 🎨 Debug & Showcase dei temi
+
+Per facilitare i test e mostrare rapidamente tutte le 8 varianti disponibili, sono stati aggiunti comandi accessibili direttamente dalla console del browser:
+
+- `karim()` → avvia il ciclo automatico dei temi (uno ogni 10 secondi)
+- `karimStop()` → interrompe il ciclo in qualsiasi momento
+- `setTheme("nome-tema")` → applica manualmente un tema specifico, ad esempio:  
+  `setTheme("autumn-night")`
+
+Temi disponibili:
+
+- spring-day
+- spring-night
+- summer-day
+- summer-night
+- autumn-day
+- autumn-night
+- winter-day
+- winter-night
+
 ---
 
 ## 📄 Autore
