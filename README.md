@@ -75,7 +75,7 @@ Questo lavoro è stato sviluppato come estensione delle richieste iniziali, con 
 
 ## 📄 Autore
 
-Progetto sviluppato da **[Karim Moubarak]** per attività scolastica.
+Progetto sviluppato da **Karim Moubarak** per attività scolastica.
 
 ---
 
